@@ -16,4 +16,10 @@
 
 # MAGIC %md
 # MAGIC
-# MAGIC Answer here...
+# MAGIC transport.pelle_featgh1616delft_0e7768a7_revenue.borough_population
+# MAGIC
+# MAGIC transport.pelle_featgh1616delft_0e7768a7_revenue.revenue_by_borough
+# MAGIC
+# MAGIC transport.pelle_featgh1616delft_0e7768a7_revenue.revenue_by_tripmonth
+# MAGIC
+# MAGIC transport.pelle_featgh1616delft_0e7768a7_revenue.revenue_per_inhabitant
